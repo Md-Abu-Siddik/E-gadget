@@ -1,0 +1,134 @@
+body {
+    background-color:#f6f6f6;
+}
+.container {
+    width:85%;
+}
+.margin-bottom {
+    margin-bottom:100px;
+}
+.margin-top{
+    margin-top:30px;
+}
+.navbar {
+    background-color: #f6f6f6 !important;
+}
+.navbar img {
+    margin-left:50px;
+}
+.img-width{
+    width:150px;
+    height:75px;
+}
+.carousel-item p{
+    margin:30px 0;
+}
+.button{
+    padding:10px 20px;
+    border:0;
+    outline: 0;
+    border-radius:10px;
+    background-color: #000000;
+    color:#ffffff;
+}
+.bg {
+    background-image:url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: 45% center;
+    background-size: 7% 80%;
+}
+.bg2 {
+    width:100%;
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: -38px 85%;
+    background-size:13% 25%;
+    padding-bottom:60px;
+}
+.carousel-item .row {
+    padding: 0 50px;
+}
+.phone {
+    margin-bottom:40px;
+}
+.text-left a {
+    text-decoration:none;
+    text-align:right;
+    color:orange;
+}
+.mob {
+    padding:50px;
+    background-color:#ffffff;
+    text-align: center;
+    border-radius:10px;
+    box-shadow: 10px 10px 25px 0px #dddddd;
+}
+.mob img {
+    width:250px;
+    height:250px;
+    margin-bottom:35px;
+}
+.mob p {
+    margin-bottom:30px;
+}
+.mob .price {
+    margin-bottom:15px;
+}
+.lap {
+    padding:40px 0px;
+    background-color:#ffffff;
+    text-align: center;
+    border-radius:10px;
+    box-shadow: 10px 10px 25px 0px #dddddd;
+}
+.lap img {
+    width:320px;
+    margin-bottom:35px;
+}
+.lap-padding {
+    padding:0 60px;
+}
+.lap p {
+    margin-bottom:30px;
+}
+.lap .price {
+    margin-bottom:13px;
+}
+.categories {
+    text-align: center;
+}
+.categories .row {
+    margin-top:85px;
+}
+.underline {
+    width:100px;
+    height:8px;
+    margin:auto;
+    background-image: linear-gradient(45deg,rgb(255, 208, 0),rgb(241, 157, 0));
+    border-radius:10px;
+}
+.cat-img {
+    width:100px;
+    height:100px;
+    margin-bottom:25px;
+}
+.cat-product {
+    width: 230px;
+    height: 245px;
+    background-color: #ffffff;
+    margin-bottom: 40px;
+}
+.cat-radius1 {
+    border-radius:5px 15px 10px 30px;
+}
+.cat-radius2 {
+    border-radius:10px 5px 30px 5px;
+}
+.cat-single {
+    padding-right:20px;
+    margin-top:195px;
+}
+.last-bg img {
+    width:600px;
+    height:450px;
+}
